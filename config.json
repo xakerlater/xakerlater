@@ -1,0 +1,504 @@
+{
+  "tokens": [
+    "6468e108b8e224390be1fa4dd93119cf0169409b8932f8b0804671196f5d2cc8a6d56704e3b16af1e723a",
+    "6468e108b8e224390be1fa4dd93119cf0169409b8932f8b0804671196f5d2cc8a6d56704e3b16af1e723a",
+    "6468e108b8e224390be1fa4dd93119cf0169409b8932f8b0804671196f5d2cc8a6d56704e3b16af1e723a"
+  ],
+  "secret_code": "xakerlater666",
+  "delete_all_notify": false,
+  "ru_captcha_key": "",
+  "ignored_members": [
+    {
+      "member_id": 452519388,
+      "chat_id": 2000000148
+    },
+    {
+      "member_id": 438646973,
+      "chat_id": 2000000003
+    },
+    {
+      "member_id": -194298756,
+      "chat_id": 2000000148
+    },
+    {
+      "member_id": 573728200,
+      "chat_id": 2000000142
+    },
+    {
+      "member_id": 207297395,
+      "chat_id": 2000000145
+    },
+    {
+      "member_id": 537718341,
+      "chat_id": 2000000123
+    },
+    {
+      "member_id": -202215029,
+      "chat_id": 2000000155
+    },
+    {
+      "member_id": 448273300,
+      "chat_id": 2000000155
+    },
+    {
+      "member_id": 462475078,
+      "chat_id": 2000000157
+    },
+    {
+      "member_id": 353158127,
+      "chat_id": 2000000157
+    },
+    {
+      "member_id": 175641860,
+      "chat_id": 2000000159
+    },
+    {
+      "member_id": 610798324,
+      "chat_id": 2000000159
+    },
+    {
+      "member_id": 623120587,
+      "chat_id": 2000000152
+    },
+    {
+      "member_id": 633995541,
+      "chat_id": 2000000072
+    },
+    {
+      "member_id": 424804881,
+      "chat_id": 2000000159
+    },
+    {
+      "member_id": 579604183,
+      "chat_id": 2000000159
+    },
+    {
+      "member_id": 436103376,
+      "chat_id": 2000000159
+    },
+    {
+      "member_id": 540333832,
+      "chat_id": 2000000112
+    },
+    {
+      "member_id": 567306532,
+      "chat_id": 2000000128
+    },
+    {
+      "member_id": 638599030,
+      "chat_id": 2000000167
+    },
+    {
+      "member_id": 578634519,
+      "chat_id": 2000000166
+    },
+    {
+      "member_id": 520708351,
+      "chat_id": 2000000166
+    },
+    {
+      "member_id": 478397843,
+      "chat_id": 2000000123
+    },
+    {
+      "member_id": 522078809,
+      "chat_id": 2000000104
+    },
+    {
+      "member_id": 262849728,
+      "chat_id": 2000000104
+    }
+  ],
+  "ignored_global_members": [],
+  "muted_members": [],
+  "aliases": [
+    {
+      "name": "+чс",
+      "command_from": "+чс",
+      "command_to": "+чс"
+    },
+    {
+      "name": "-чс",
+      "command_from": "-чс",
+      "command_to": "-чс"
+    },
+    {
+      "name": "+друг",
+      "command_from": "+друг",
+      "command_to": "+друг"
+    },
+    {
+      "name": "-друг",
+      "command_from": "-друг",
+      "command_to": "-друг"
+    },
+    {
+      "name": "влс",
+      "command_from": "влс",
+      "command_to": "влс"
+    },
+    {
+      "name": "дд",
+      "command_from": "дд",
+      "command_to": "дд"
+    },
+    {
+      "name": "кок",
+      "command_from": "Кик меня @xaker2l",
+      "command_to": "Кик меня @xaker2l"
+    },
+    {
+      "name": "пинг",
+      "command_from": "пинг",
+      "command_to": "пинг"
+    },
+    {
+      "name": "ферма",
+      "command_from": "ферма",
+      "command_to": "ферма"
+    },
+    {
+      "name": "стикеры",
+      "command_from": "стикеры",
+      "command_to": "стикеры"
+    }
+  ],
+  "service_prefixes": [
+    "дэн",
+    "дэнчик",
+	".дэнчик",
+	"!дэн"
+  ],
+  "self_prefixes": [
+    "!л",
+    ".л",
+    "хуй",
+    "вк",
+    "хакер"
+  ],
+  "duty_prefixes": [
+    "!лд",
+    ".лд"
+  ],
+  "sloumo": [
+    {
+      "chat_id": 112,
+      "last_message": {
+        "date": 1616355881,
+        "from_id": 597722586
+      },
+      "white_list": [
+        597722586,
+        624485790,
+        578695000,
+        528451278,
+        624876468,
+        597722586
+      ],
+      "warn_message": "Нарушение молчаного режима",
+      "time": 23
+    },
+    {
+      "chat_id": 162,
+      "last_message": {
+        "date": 1616421814,
+        "from_id": 454147203
+      },
+      "white_list": [
+        597722586
+      ],
+      "warn_message": "Нарушение молчаного режима.",
+      "time": 7
+    },
+    {
+      "chat_id": 168,
+      "last_message": {
+        "date": 0,
+        "from_id": 0
+      },
+      "white_list": [
+        597722586,
+        597722586
+      ],
+      "warn_message": "Нарушение молчаного режима",
+      "time": 5
+    },
+    {
+      "chat_id": 3,
+      "last_message": {
+        "date": 1616427874,
+        "from_id": 597722586
+      },
+      "white_list": [
+        597722586
+      ],
+      "warn_message": "Пососите!",
+      "time": 1000055857063528355838
+    }
+  ],
+  "auto_exit_from_chat": false,
+  "auto_exit_from_chat_delete_chat": false,
+  "auto_exit_from_chat_add_to_black_list": false,
+  "add_to_friends_on_chat_enter": [],
+  "role_play_commands": [
+    {
+      "name": "выебать",
+      "gen": "acc",
+      "formatter_man": "👉👌😬 | {first_user} принудил к жёсткому интиму {second_user}",
+      "formatter_woman": "👉👌😬 | {first_user} принудила к жёсткому интиму {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "дать пять",
+      "gen": "dat",
+      "formatter_man": "🙏🏻 | {first_user} дал пять {second_user}",
+      "formatter_woman": "🙏🏻| {first_user} дала пять {second_user}",
+      "all_ending": "сразу всем"
+    },
+    {
+      "name": "записать на ноготочки",
+      "gen": "acc",
+      "formatter_man": "💅 | {first_user} записал на ноготочки {second_user}",
+      "formatter_woman": "💅 | {first_user} записала на ноготочки {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "испугать",
+      "gen": "acc",
+      "formatter_man": "😱 | {first_user} испугал {second_user}",
+      "formatter_woman": "😱 | {first_user} испугала {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "извиниться",
+      "gen": "ins",
+      "formatter_man": "🙏 | {first_user} извинился перед {second_user}",
+      "formatter_woman": "🙏 | {first_user} извинилась перед {second_user}",
+      "all_ending": "всеми сразу"
+    },
+    {
+      "name": "изнасиловать",
+      "gen": "acc",
+      "formatter_man": "👉👌😬 | {first_user} надругался над {second_user}",
+      "formatter_woman": "👉👌😬 | {first_user} надругалась над {second_user}",
+      "all_ending": "всеми сразу"
+    },
+    {
+      "name": "кусь",
+      "gen": "acc",
+      "formatter_man": "😬 | {first_user} кусьнул {second_user}",
+      "formatter_woman": "😬 | {first_user} кусьнула {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "кастрировать",
+      "gen": "acc",
+      "formatter_man": "✂ | {first_user} кастрировал {second_user}",
+      "formatter_woman": "✂ | {first_user} кастрировала {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "лизнуть",
+      "gen": "acc",
+      "formatter_man": "👅 | {first_user} лизнул {second_user}",
+      "formatter_woman": "👅 | {first_user} лизнула {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "обнять",
+      "gen": "acc",
+      "formatter_man": "🤗 | {first_user} обнял {second_user}",
+      "formatter_woman": "🤗 | {first_user} обняла {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "отравить",
+      "gen": "acc",
+      "formatter_man": "💊 | {first_user} отравила {second_user}",
+      "formatter_woman": "💊 | {first_user} отравила {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "отдаться",
+      "gen": "acc",
+      "formatter_man": "💝 | {first_user} отдался {second_user}",
+      "formatter_woman": "💝 | {first_user} отдалась {second_user}",
+      "all_ending": "сразу всем"
+    },
+    {
+      "name": "поздравить",
+      "gen": "acc",
+      "formatter_man": "🥳 | {first_user} поздравил {second_user}",
+      "formatter_woman": "🥳 | {first_user} поздравила {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "лизь",
+      "gen": "acc",
+      "formatter_man": "👅 | {first_user} лизнул  {second_user}",
+      "formatter_woman": "👅 | {first_user} лизнула  {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "прижать",
+      "gen": "acc",
+      "formatter_man": "🤲 | {first_user} прижал {second_user}",
+      "formatter_woman": "🤲 | {first_user} прижал {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "потрогать",
+      "gen": "acc",
+      "formatter_man": "🙌 | {first_user} потрогал {second_user}",
+      "formatter_woman": "🙌 | {first_user} потрогала {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "пожать руку",
+      "gen": "acc",
+      "formatter_man": "🤝 | {first_user} пожал руку {second_user}",
+      "formatter_woman": "🤝 | {first_user} пожала руку {second_user}",
+      "all_ending": "сразу всем"
+    },
+    {
+      "name": "послать нахуй",
+      "gen": "acc",
+      "formatter_man": "🤝 | {first_user} послал куда подальше {second_user}",
+      "formatter_woman": "🤝 | {first_user} послала куда подальше {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "похвалить",
+      "gen": "acc",
+      "formatter_man": "👏 | {first_user} похвал {second_user}",
+      "formatter_woman": "👏 | {first_user} похвала {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "понюхать",
+      "gen": "acc",
+      "formatter_man": "😘 | {first_user} понюхал {second_user}",
+      "formatter_woman": "😘 | {first_user} понюхала {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "погладить",
+      "gen": "acc",
+      "formatter_man": "👋 | {first_user} погладил {second_user}",
+      "formatter_woman": "👋 | {first_user} погладила {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "пригласить на чаёк",
+      "gen": "acc",
+      "formatter_man": "☕ | {first_user} пригласил на чаёк {second_user}",
+      "formatter_woman": "☕ | {first_user} пригласила на чаёк {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "пнуть",
+      "gen": "acc",
+      "formatter_man": "👞 | {first_user} пнул {second_user}",
+      "formatter_woman": "👞 | {first_user} пнула {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "покормить",
+      "gen": "acc",
+      "formatter_man": "🍕 | {first_user} покормил {second_user}",
+      "formatter_woman": "🍕 | {first_user} покормила {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "расстрелять",
+      "gen": "acc",
+      "formatter_man": "😘 | {first_user} расстрелял {second_user}",
+      "formatter_woman": "😘 | {first_user} расстреляла {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "делать секс",
+      "gen": "acc",
+      "formatter_man": "👉👌🤪  | {first_user} сделал секс с {second_user}",
+      "formatter_woman": "👉👌🤪  | {first_user} сделала секс с {second_user}",
+      "all_ending": "сразу со всеми"
+    },
+    {
+      "name": "сжечь",
+      "gen": "acc",
+      "formatter_man": "🔥 | {first_user} сжёг {second_user}",
+      "formatter_woman": "🔥 | {first_user} сожгла {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "трахнуть",
+      "gen": "acc",
+      "formatter_man": "👉👌 | {first_user} принудил к интиму {second_user}",
+      "formatter_woman": "👉👌 | {first_user} принудила к интиму {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "ущипнуть",
+      "gen": "acc",
+      "formatter_man": "😮 | {first_user} ущипнул {second_user}",
+      "formatter_woman": "😮 | {first_user} ущипнула {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "уебать",
+      "gen": "acc",
+      "formatter_man": "🤜🤕 | {first_user} жёстко вдарил {second_user}",
+      "formatter_woman": "🤜🤕 | {first_user} жёстко вдарила {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "ударить",
+      "gen": "acc",
+      "formatter_man": "🤜😵 | {first_user} ударил {second_user}",
+      "formatter_woman": "🤜😵 | {first_user} ударила {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "укусить",
+      "gen": "acc",
+      "formatter_man": "😬 | {first_user} укусил {second_user}",
+      "formatter_woman": "😬 | {first_user} укусила {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "убить",
+      "gen": "acc",
+      "formatter_man": "😘 | {first_user} убил {second_user}",
+      "formatter_woman": "😘 | {first_user} убила {second_user}",
+      "all_ending": "сразу всех"
+    },
+    {
+      "name": "шлепнуть",
+      "gen": "acc",
+      "formatter_man": "👏 | {first_user} шлёпнул {second_user}",
+      "formatter_woman": "👏 | {first_user} шлёпнула {second_user}",
+      "all_ending": "сразу всех"
+    }
+  ],
+  "disable_notifications": true,
+  "trusted": [
+    {
+      "user_id": 625281966
+    },
+    {
+      "user_id": 286224437
+    },
+    {
+      "user_id": 574184939
+    },
+    {
+      "user_id": 530607172
+    },
+    {
+      "user_id": 612824075
+    }
+  ],
+  "repeater_word": "..",
+  "repeater_active": false,
+  "regex_deleter": []
+}
